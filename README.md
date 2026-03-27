@@ -1,23 +1,21 @@
 # n8n AI Workflows
 
-This repository contains AI workflows built using n8n.
+This repository showcases AI workflows built using n8n, focusing on chatbot automation and Retrieval-Augmented Generation (RAG).
 
 ## Projects
 
 ### 1. AI Chatbot
-- Simple chatbot using OpenAI
-- Can respond to user messages
+A simple chatbot powered by OpenAI that can respond to user messages in real time.
 
 ### 2. RAG PDF Chatbot
-- Upload PDF
-- Store embeddings
-- Answer questions based on document
+An intelligent chatbot that allows users to upload PDF documents and ask questions based on their content using vector search.
 
-## Tools Used
-- n8n
-- OpenAI
-- Vector Database (Qdrant)
-
+## Skills Demonstrated
+- AI Workflow Automation (n8n)
+- LLM Integration (OpenAI)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (Qdrant)
+- API Integration
 
 ## Acknowledgment
 This project was developed as part of an AI workshop organized by AI:AT.
