@@ -12,4 +12,4 @@ This workflow is a simple AI chatbot built using n8n and OpenAI.
 3. Response is returned to the user
 
 ## File
-- ai-chatbot-n8n.jso
+- ai-chatbot-n8n.json
